@@ -1,3 +1,11 @@
+/*
+ * Course: MAD201-01
+ * Assignment: 5
+ * Name: Ashish Prajapati
+ * Student ID: A00194842
+ * Description: Manages global application state using the Context API, providing functions to add, delete, and toggle tasks.
+ */
+
 import React, { createContext, ReactNode, useContext, useState } from 'react';
 
 export interface Task {
