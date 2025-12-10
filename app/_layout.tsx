@@ -1,3 +1,12 @@
+/*
+ * Course: MAD201-01
+ * Assignment: 5
+ * Name: Ashish Prajapati
+ * Student ID: A00194842
+ * Description: The Root Layout that sets up the main Stack Navigator and wraps the entire application in the TaskProvider.
+ */
+
+
 import { Stack } from 'expo-router';
 import React from 'react';
 import { TaskProvider } from './context/TaskContext';
