@@ -1,3 +1,12 @@
+/*
+ * Course: MAD201-01
+ * Assignment: 5
+ * Name: Ashish Prajapati
+ * Student ID: A00194842
+ * Description: The main Home Screen (All Tasks) that displays the full list of tasks and links to the Add Task form.
+ */
+
+
 import { MaterialIcons } from '@expo/vector-icons';
 import { router } from 'expo-router';
 import React from 'react';
